@@ -1,0 +1,18 @@
+drwxr-xr-x  4 ciberspringjeanberrios  staff  128 Mar  6 16:51 SFTP-ALL-DATA/
+drwxr-xr-x  3 ciberspringjeanberrios  staff   96 Feb 11 14:49 config/
+drwxr-xr-x  3 ciberspringjeanberrios  staff   96 Feb 11 14:49 force-app/
+drwxr-xr-x  7 ciberspringjeanberrios  staff  224 Feb 18 15:47 manifest/
+drwxr-xr-x  4 ciberspringjeanberrios  staff  128 Feb 11 14:49 scripts/
+
+_p9k__last_buffer='set | grep wguprj >> randomFile.txt'
+_p9k__preexec_cmd='set | grep --color=auto  wguprj >> randomFile.txt'
+wguprj='cd desktop/personal-code/wgu-projects'
+
+drwxr-xr-x 4 ciberspringjeanberrios
+drwxr-xr-x 3 ciberspringjeanberrios
+drwxr-xr-x 3 ciberspringjeanberrios
+drwxr-xr-x 7 ciberspringjeanberrios
+drwxr-xr-x 4 ciberspringjeanberrios
+_p9k__last_buffer='set | grep
+_p9k__preexec_cmd='set | grep
+wguprj='cd desktop/personal-code/wgu-projects' 
